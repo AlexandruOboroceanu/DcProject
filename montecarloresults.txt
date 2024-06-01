@@ -1,0 +1,6 @@
+n = 50: 2100 nanoseconds
+n = 100: 4000 nanoseconds
+n = 1000: 29000 nanoseconds
+n = 10000: 287300 nanoseconds
+n = 50000: 1448000 nanoseconds
+n = 100000: 2993000 nanoseconds

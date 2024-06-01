@@ -1,0 +1,3 @@
+Benchmark execution time: 104 milliseconds
+Benchmark execution time: 114 milliseconds
+Benchmark execution time: 107 milliseconds
